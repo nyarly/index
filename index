@@ -483,3 +483,9 @@ https://github.com/fisherman/z
 Pure-fish z directory jumping
 z cd jump
 jethrokuan
+
+lookup
+https://github.com/nyarly/fish-lookup
+Find a parent directory that contains a file (a la git and .git/)
+git function lookup
+nyarly
