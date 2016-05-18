@@ -40,6 +40,12 @@ Powerline, Git prompt optimized for awesome
 prompt powerline
 bobthecow
 
+cache-file
+https://github.com/nyarly/fish-cache-file
+Utility functions to cache command results into a file
+cache completion utility
+nyarly
+
 chain
 https://github.com/oh-my-fish/theme-chain
 Classy theme composed of information chains
@@ -489,9 +495,3 @@ https://github.com/fisherman/z
 Pure-fish z directory jumping
 z cd jump
 jethrokuan
-
-cache-file
-https://github.com/nyarly/fish-cache-file
-Utility functions to cache command results into a file
-cache completion utility
-nyarly
